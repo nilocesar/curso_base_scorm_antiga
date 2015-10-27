@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+</head>
+
+<body>
+   <a href="index.html" onclick="return popitup('index.html')">Link to popup</a>
+   
+    <script language="javascript" type="text/javascript">
+        function popitup(url) {
+            newwindow = window.open(url, 'name', 'height=1024,width=728');
+            if (window.focus) {
+                newwindow.focus()
+            }
+            return false;
+        }
+    </script>
+</body>
+
+</html>

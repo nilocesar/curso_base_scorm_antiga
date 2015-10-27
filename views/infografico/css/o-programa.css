@@ -1,0 +1,365 @@
+.version.o_programa /* version checker */
+{
+	color: #000009;
+	background-color: #E637EA;
+}
+
+.html
+{
+	background-color: #008C95;
+}
+
+#page
+{
+	z-index: 1;
+	width: 132px;
+	min-height: 0px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10405px 399px 62px 429px;
+}
+
+#u1242
+{
+	z-index: 29;
+	min-height: 179px;
+}
+
+#u1242-bw
+{
+	z-index: 29;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: -81px;
+}
+
+#u1546
+{
+	z-index: 2;
+	opacity: 0.45;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
+	filter: alpha(opacity=45);
+	position: fixed;
+	top: 10px;
+	left: -252px;
+}
+
+#u1162
+{
+	z-index: 32;
+	width: 24px;
+	height: 33px;
+	position: fixed;
+	top: 11px;
+	left: 413px;
+}
+
+#u1158
+{
+	z-index: 30;
+	width: 24px;
+	height: 34px;
+	position: fixed;
+	top: 11px;
+	left: 493px;
+}
+
+#u1159
+{
+	z-index: 31;
+	width: 24px;
+	height: 33px;
+	position: fixed;
+	top: 11px;
+	left: 538px;
+}
+
+#u2227
+{
+	z-index: 3;
+	position: fixed;
+	top: 98px;
+	left: 84px;
+}
+
+#u1640
+{
+	z-index: 27;
+	position: fixed;
+	top: 542px;
+	left: 674px;
+}
+
+#u1076
+{
+	z-index: 26;
+	position: fixed;
+	top: 539px;
+	left: 866px;
+}
+
+.js #u1640.ose_pre_init,.js #u1076.ose_pre_init
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u2247
+{
+	z-index: 33;
+	position: fixed;
+	top: 786px;
+	left: 485px;
+}
+
+#u2641
+{
+	z-index: 4;
+	position: fixed;
+	top: 1364px;
+	left: 125px;
+}
+
+#u2355
+{
+	z-index: 35;
+	position: fixed;
+	top: 1693px;
+	left: 301px;
+}
+
+#u2744
+{
+	z-index: 37;
+	position: fixed;
+	top: 2215px;
+	left: 652px;
+}
+
+#u2252
+{
+	z-index: 34;
+	position: fixed;
+	top: 2904px;
+	left: 427px;
+}
+
+#u2699
+{
+	z-index: 6;
+	position: fixed;
+	top: 3363px;
+	left: 270px;
+}
+
+#u2646
+{
+	z-index: 5;
+	position: fixed;
+	top: 3363px;
+	left: 270px;
+}
+
+#u2705
+{
+	z-index: 8;
+	position: fixed;
+	top: 3878px;
+	left: 294px;
+}
+
+#u2651
+{
+	z-index: 7;
+	position: fixed;
+	top: 3878px;
+	left: 294px;
+}
+
+#u2656
+{
+	z-index: 9;
+	position: fixed;
+	top: 4484px;
+	left: 304px;
+}
+
+#u2711
+{
+	z-index: 10;
+	position: fixed;
+	top: 4484px;
+	left: 304px;
+}
+
+#u2661
+{
+	z-index: 11;
+	position: fixed;
+	top: 5179px;
+	left: 282px;
+}
+
+#u2714
+{
+	z-index: 12;
+	position: fixed;
+	top: 5179px;
+	left: 282px;
+}
+
+#u2666
+{
+	z-index: 13;
+	position: fixed;
+	top: 5862px;
+	left: 266px;
+}
+
+#u2720
+{
+	z-index: 14;
+	position: fixed;
+	top: 5862px;
+	left: 266px;
+}
+
+#u2726
+{
+	z-index: 16;
+	position: fixed;
+	top: 6604px;
+	left: 258px;
+}
+
+#u2671
+{
+	z-index: 15;
+	position: fixed;
+	top: 6604px;
+	left: 258px;
+}
+
+#u2732
+{
+	z-index: 18;
+	position: fixed;
+	top: 7168px;
+	left: 218px;
+}
+
+#u2676
+{
+	z-index: 17;
+	position: fixed;
+	top: 7168px;
+	left: 218px;
+}
+
+#u2681
+{
+	z-index: 19;
+	position: fixed;
+	top: 7881px;
+	left: 208px;
+}
+
+#u2735
+{
+	z-index: 20;
+	position: fixed;
+	top: 7881px;
+	left: 208px;
+}
+
+#u2738
+{
+	z-index: 22;
+	position: fixed;
+	top: 8707px;
+	left: 200px;
+}
+
+#u2686
+{
+	z-index: 21;
+	position: fixed;
+	top: 8707px;
+	left: 200px;
+}
+
+#u2741
+{
+	z-index: 24;
+	position: fixed;
+	top: 9314px;
+	left: 172px;
+}
+
+#u2691
+{
+	z-index: 23;
+	position: fixed;
+	top: 9314px;
+	left: 172px;
+}
+
+#u2624
+{
+	z-index: 25;
+	overflow: hidden;
+	position: fixed;
+	top: 9981px;
+	left: 122px;
+}
+
+.js #u2641.ose_pre_init,.js #u2355.ose_pre_init,.js #u2744.ose_pre_init,.js #u2699.ose_pre_init,.js #u2646.ose_pre_init,.js #u2705.ose_pre_init,.js #u2651.ose_pre_init,.js #u2656.ose_pre_init,.js #u2711.ose_pre_init,.js #u2661.ose_pre_init,.js #u2714.ose_pre_init,.js #u2666.ose_pre_init,.js #u2720.ose_pre_init,.js #u2726.ose_pre_init,.js #u2671.ose_pre_init,.js #u2732.ose_pre_init,.js #u2676.ose_pre_init,.js #u2681.ose_pre_init,.js #u2735.ose_pre_init,.js #u2738.ose_pre_init,.js #u2686.ose_pre_init,.js #u2741.ose_pre_init,.js #u2691.ose_pre_init,.js #u2624.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u2562
+{
+	z-index: 36;
+	position: fixed;
+	top: 10020px;
+	left: 601px;
+}
+
+#u864
+{
+	z-index: 28;
+	width: 132px;
+	height: 132px;
+	position: relative;
+}
+
+.ie #u1162,.ie #u1158,.ie #u1159,.ie #u864
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

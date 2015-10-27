@@ -1,0 +1,209 @@
+.version.ferramentas /* version checker */
+{
+	color: #0000EB;
+	background-color: #6B71FB;
+}
+
+.html
+{
+	background-color: #008C95;
+}
+
+#page
+{
+	z-index: 1;
+	width: 747px;
+	min-height: 393.846604502678px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 44px 145px 62.15339549732198px 68px;
+}
+
+#u1206
+{
+	z-index: 12;
+	min-height: 102px;
+}
+
+#u1206-bw
+{
+	z-index: 12;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: -46px;
+}
+
+#u1171
+{
+	z-index: 15;
+	width: 24px;
+	height: 33px;
+	position: fixed;
+	top: 11px;
+	left: 412px;
+}
+
+#u1170
+{
+	z-index: 14;
+	width: 24px;
+	height: 33px;
+	position: fixed;
+	top: 11px;
+	left: 454px;
+}
+
+#u1169
+{
+	z-index: 13;
+	width: 24px;
+	height: 33px;
+	position: fixed;
+	top: 11px;
+	left: 538px;
+}
+
+#pu1643
+{
+	width: 0.01px;
+	margin-left: 40px;
+}
+
+#u1643
+{
+	z-index: 2;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 181px;
+	left: 333px;
+}
+
+#u880
+{
+	z-index: 3;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1648
+{
+	z-index: 17;
+	position: fixed;
+	top: 513px;
+	left: 690px;
+}
+
+#u1073
+{
+	z-index: 11;
+	position: fixed;
+	top: 513px;
+	left: 889px;
+}
+
+.js #u1648.ose_pre_init,.js #u1073.ose_pre_init
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u903
+{
+	z-index: 6;
+	position: fixed;
+	top: 662px;
+	left: 588px;
+}
+
+#u898
+{
+	z-index: 5;
+	position: fixed;
+	top: 746px;
+	left: 99px;
+}
+
+#u908
+{
+	z-index: 7;
+	position: fixed;
+	top: 1173px;
+	left: 604px;
+}
+
+#u913
+{
+	z-index: 8;
+	position: fixed;
+	top: 1433px;
+	left: 632px;
+}
+
+#u918
+{
+	z-index: 9;
+	position: fixed;
+	top: 1615px;
+	left: 610px;
+}
+
+#u1437
+{
+	z-index: 16;
+	overflow: hidden;
+	position: fixed;
+	top: 1688px;
+	left: 175px;
+}
+
+#u926
+{
+	z-index: 10;
+	position: fixed;
+	top: 1728px;
+	left: 647px;
+}
+
+.js #u898.ose_pre_init,.js #u908.ose_pre_init,.js #u913.ose_pre_init,.js #u918.ose_pre_init,.js #u1437.ose_pre_init,.js #u926.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u897
+{
+	z-index: 4;
+	width: 143px;
+	height: 191px;
+	margin-top: 1498px;
+	position: relative;
+}
+
+.ie #u1171,.ie #u1170,.ie #u1169,.ie #u897
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

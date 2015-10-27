@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="c78fbyyu-6115-42d9-9660-c85d4c27804a" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <organizations default="FK015_COURSE">
+    <organization identifier="FK015_COURSE" structure="hierarchical">
+      <title>Rodobens</title>
+      <item identifier="ITEM-075ABC35C0A9CBA57BBF01CDFD678D11" identifierref="RES-0003" isvisible="true">
+        <title>Carta Náutica</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-0003" type="webcontent" href="index.html" adlcp:scormtype="sco">
+    </resource>
+  </resources>
+</manifest>
+

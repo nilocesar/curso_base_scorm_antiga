@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+    
+<head>
+
+    <meta http-equiv="content VOLTAR AOS PRODUTOS-type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="MobileOptimized" content="960"/>
+	<meta id="dynamic-viewport" name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="format-detection" content="telephone=no"/>
+    
+    <!-- CRIAR ATALHO PARA O WEB APP  -->
+    <!--
+    <link rel="apple-touch-icon" sizes="57x57" href="eng_imgs/icons/logo_touch_57x57.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="eng_imgs/icons/logo_touch_72x72.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="eng_imgs/icons/logo_touch_114x114.png"/>
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="eng_imgs/icons/logo_touch_57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="eng_imgs/icons/logo_touch_72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="eng_imgs/icons/logo_touch_114x114.png"/>
+    <link rel="apple-touch-startup-image" href="eng_imgs/icons/logo_touch_48x48.png">
+    -->
+ 
+    <title>Rodobens</title>
+    <!-- ESTILOS -->
+    <link media="screen" type="text/css" href="css/main.css" rel="stylesheet" />
+   	<link media="screen" type="text/css" href="css/mobile.css" rel="stylesheet" />
+   
+    <!-- IMPORTANDO LIBS -->   
+    <script type="text/javascript" src="js/libs/screenfull.js?12343"></script>  
+    <script type="text/javascript" src="js/libs/jquery-2.1.0.min.js?12343"></script>
+    <script type="text/javascript" src="js/libs/snap.svg.js?12343"></script>   
+    <script type="text/javascript" src="js/libs/preloadjs-0.6.1.min.js?12343"></script>   
+    <script type="text/javascript" src="js/libs/sly.min.js?12343"></script>  
+    
+    <!-- IMPORT CUSTONS -->
+    <script type="text/javascript" src="js/scorm/scormControls.js?12343"></script>
+    <script type="text/javascript" src="js/navigation/navigationControls.js?12343"></script>
+    <script type="text/javascript" src="js/navigation/deepLink.js?12343"></script>
+    <script type="text/javascript" src="js/layout/layoutControls.js?12343"></script>
+    <script type="text/javascript" src="js/especiais/especiaisControls.js?12343"></script>
+    
+    <!--CONTROLE DE NAVEGAÇÃO-->
+    <script type="text/javascript" src="js/scorm/scormAPI.js"></script>
+    <script type="text/javascript" src="js/main.js?12334"></script>
+</head>
+
+<body>
+    <div id="conteinerScreen" >
+        <!-- Modal Alerts -->
+            <div id="popDialogo" class="dilogPop">
+                <div class="html5-dialog">
+                    <div id="window">                    
+                        <div id="tituloAlert">
+                            <b>Deseja Continuar de onde parou?</b>
+                        </div>
+                        <div id="botoes">
+                            <button id="sim">Sim</button>
+                            <button id="nao">Não</button>
+                        </div>
+
+                    </div>               
+                </div>
+            </div>
+
+        <!-- Pop -->	
+        <div id="popup">
+            	
+            <div id="popContainer"></div>
+            <div id="closePop" class="botao">Fechar</div>
+        </div>	
+
+        <!-- Menu -->
+        <div id="fundoMenu">
+            <div id="contentMenu"></div>
+            <!--
+            <div id="pesqClass">
+              Pesquisar: <input id="pesquisaTxt" type="text" onkeydown="search(this)">            
+                        
+            </div>
+            -->
+        </div>
+
+        <div id="conteinerGeral" >	
+            <!-- ORIENTAÇÃO -->
+            <div id="orientatonId" class="orientatonClass">
+                <div class="orientationImage">
+                    <img src="eng_imgs/orientation.gif"/>
+                </div>
+            </div> 
+
+            <!-- PRÉ-LOADER DAS VIEWS -->
+            <div id="loading">	       
+                <div class="loadingImage">
+                    <img src="eng_imgs/preloader.gif"/>
+                </div>            
+            </div>
+            <div id="avancaBt" class="rightControls">
+                    <div id="avancar">
+                        <img src="eng_imgs/next.png"/>
+                    </div>
+            </div>
+            <div id="voltaBt" class="leftControls">
+                    <div id="voltar">
+                        <img src="eng_imgs/prev.png"/>
+                    </div>
+            </div>
+                <!-- DIV QUE CARREGA AS VIEWS -->        
+                <div class="inner" id="contentGeral">
+                </div>
+        </div>    
+    </div>   
+</body>
+    
+</html>
